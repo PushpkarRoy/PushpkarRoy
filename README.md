@@ -1,35 +1,111 @@
-<h1 align="center">Hi 👋, I'm Pushpkar Roy</h1>
-<h3 align="center">A passionate Data Analyst from India</h3>
+<h1 align="center">🎬 Welcome to the Data-Driven World of Pushpkar Roy 🎮</h1>
+<h3 align="center">⚡ Data Analyst | SQL | Python | Power BI | Excel | Tableau | pandas</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pushpkarroy&label=Profile%20views&color=0e75b6&style=flat" alt="pushpkarroy" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pushpkarroy" alt="pushpkarroy" /></a> </p>
-
-- 🔭 I’m currently working on **Pizza Sales Analysis Project**
-
-- 🌱 I’m currently learning **Data Analysis Tools**
-
-- 👯 I’m looking to collaborate on [Music Store Analysis](https://github.com/PushpkarRoy/Music-Store-Analysis.git)
-
-- 🤝 I’m looking for help with [Ola_project](https://github.com/PushpkarRoy/Ola_project.git)
-
-- 👨‍💻 All of my projects are available at [https://github.com/PushpkarRoy](https://github.com/PushpkarRoy)
-
-- 💬 Ask me about **Data Analysis**
-
-- 📫 How to reach me **Pushpkarroy880@gmail.com**
-
-- ⚡ Fun fact **I start my day with a cycle ride 🚴‍♂️ and end it with SQL or Python practice into the night 🌙 — #DataNeverSleeps!**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/pushpkar roy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pushpkar roy" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&width=435&lines=Daily+SQL+Practice+%F0%9F%93%9A;Python+Scripts+Never+Sleep+%F0%9F%94%A5;Power+BI+Dashboards+In+Progress+%F0%9F%93%8A;Data+Cleaning+With+pandas+%F0%9F%A7%90;Data+Never+Lies+%E2%9C%85"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pushpkarroy&show_icons=true&locale=en&layout=compact" alt="pushpkarroy" /></p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=PushpkarRoy&label=Profile%20views&color=0e75b6&style=flat" alt="PushpkarRoy" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pushpkarroy&show_icons=true&locale=en" alt="pushpkarroy" /></p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=PushpkarRoy&theme=gruvbox&no-bg=true&margin-w=10" />
+</p>
+
+---
+
+### 🐍 Snake Ate My Contribution Streak
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake game" />
+</p>
+
+---
+
+### 🧠 About Me
+
+* 🔭 Currently working on **interactive dashboards & SQL projects**
+* 🌱 Deep-diving into **Power BI, Tableau, and statistical Python**
+* 💬 Ask me about **SQL queries, data cleaning, or BI tool setup**
+* ⚡ Fun Fact: My snake eats missed GitHub streaks! 🐍💻
+* 📫 Reach me at: **[Pushpkarroy880@gmail.com](mailto:Pushpkarroy880@gmail.com)**
+
+---
+
+### 🛠️ Tools & Technologies
+
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/python.png"/>
+  <img src="https://img.icons8.com/fluency/48/sql.png"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png"/>
+  <img src="https://img.icons8.com/color/48/power-bi.png"/>
+  <img src="https://img.icons8.com/color/48/tableau-software.png"/>
+  <img src="https://img.icons8.com/ios-filled/50/github.png"/>
+</p>
+
+---
+
+### 📈 Power BI Dashboards (Auto-Scroll Style)
+
+<p align="center">
+  <img width="591" height="374" alt="image" src="https://github.com/user-attachments/assets/1f3de23f-ac6b-4849-8ebb-5781d53aaefe" />
+
+
+  <br/><br/>
+  <img width="735" height="425" alt="image" src="https://github.com/user-attachments/assets/6c8f5c2e-b316-408f-8c9e-da64d1c0a85c" />
+
+  <br/><br/>
+  <img width="729" height="414" alt="image" src="https://github.com/user-attachments/assets/e97bfcfb-911b-4a24-a332-4b9db568f333" />
+
+</p>
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PushpkarRoy&show_icons=true&theme=radical" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PushpkarRoy&layout=compact&theme=radical" height="150"/>
+</p>
+
+---
+
+### 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PushpkarRoy&theme=tokyonight"/>
+</p>
+
+---
+
+### 🎯 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/yourlinkedin" target="_blank">
+    <img src="https://img.icons8.com/color/48/linkedin.png"/>
+  </a>
+  <a href="mailto:Pushpkarroy880@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/color/48/gmail--v1.png"/>
+  </a>
+</p>
+
+---
+
+### 🗂️ Featured Projects
+
+* 🎯 [University Subquery Practice](https://github.com/PushpkarRoy/SQL-Subquery-Practice-UniversityDB)
+* 🛒 [Apex Market SQL Analysis](https://github.com/PushpkarRoy/Apex-Market-SQL)
+* 📊 [Power BI Sales Dashboard](https://github.com/PushpkarRoy/PowerBI-SalesDashboard) *(in progress)*
+
+---
+
+<p align="center">
+  ⭐ *Explore, fork, and star if my work inspires you. Let's grow together in the world of data!* 🚀
+</p>
+
+
 
