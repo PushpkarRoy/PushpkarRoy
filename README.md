@@ -7,6 +7,16 @@
 
 ---
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=PushpkarRoy&label=Profile%20views&color=0e75b6&style=flat" alt="PushpkarRoy" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=PushpkarRoy&theme=gruvbox&no-bg=true&margin-w=10" />
+</p>
+
+---
+
 ### 🐍 Snake Ate My Contribution Streak
 
 <p align="center">
